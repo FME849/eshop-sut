@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+backend/node_modules/
+*/node_modules/
+
+# Production builds
+dist/
+build/
+.expo/
+.expo-shared/
+
+# Environment and logs
+*.log
+.env
+.env.local
+.DS_Store
+
+# SQLite database state (optional if kept local)
+# backend/database.sqlite
+
+# Testing documentation across branches
+testing-docs/
