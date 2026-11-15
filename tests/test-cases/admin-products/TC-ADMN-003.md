@@ -28,4 +28,4 @@ Admin Products / Functional Testing / Boundary Value Analysis (BVA Min), Equival
 - Tạo sản phẩm thành công và hiển thị trong danh sách sản phẩm với giá 1 ₫.
 
 ## Status / Related bugs
-Not Run / None
+Pass / None

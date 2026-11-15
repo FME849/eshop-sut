@@ -29,4 +29,4 @@ Coupon / Functional Testing / Boundary Value Analysis (BVA Min - 1)
 - Tổng tiền thanh toán giữ nguyên không đổi.
 
 ## Status / Related bugs
-Not Run / None
+Pass / None

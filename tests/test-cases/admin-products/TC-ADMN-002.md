@@ -28,4 +28,4 @@ Admin Products / Functional Testing / Boundary Value Analysis (BVA Min - 2), Equ
 - Báo lỗi: "Giá sản phẩm không hợp lệ, không được nhập số âm".
 
 ## Status / Related bugs
-Not Run / None
+Fail / [BUG-ADMN-001](../../bugs/admin-products/BUG-ADMN-001.md)

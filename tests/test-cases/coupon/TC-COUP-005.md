@@ -29,4 +29,4 @@ Coupon / Functional Testing / Boundary Value Analysis (BVA Max), Equivalence Par
 - Từ chối áp dụng và hiển thị thông báo: "Bạn đã sử dụng hết lượt cho mã giảm giá này".
 
 ## Status / Related bugs
-Not Run / None
+Fail / [BUG-COUP-003](../../bugs/coupon/BUG-COUP-003.md)

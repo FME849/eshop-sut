@@ -30,4 +30,4 @@ Mobile Registration / Functional Testing / Boundary Value Analysis (BVA Min), Eq
 - Chuyển hướng về màn hình Đăng nhập (`view === 'login'`).
 
 ## Status / Related bugs
-Not Run / None
+Fail / [BUG-REG-001](../../bugs/registration/BUG-REG-001.md)

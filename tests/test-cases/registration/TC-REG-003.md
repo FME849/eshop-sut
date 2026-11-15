@@ -30,4 +30,4 @@ Registration / Functional Testing / Boundary Value Analysis (BVA Min + 1)
 - Đăng ký thành công và điều hướng sang trang Đăng nhập.
 
 ## Status / Related bugs
-Not Run / None
+Fail / [BUG-REG-001](../../bugs/registration/BUG-REG-001.md)

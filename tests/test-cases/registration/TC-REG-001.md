@@ -31,4 +31,4 @@ Registration / Functional Testing / Boundary Value Analysis (BVA Min), Equivalen
 - Tự động điều hướng người dùng tới trang Đăng nhập (`/login`).
 
 ## Status / Related bugs
-Not Run / None
+Fail / [BUG-REG-001](../../bugs/registration/BUG-REG-001.md)

@@ -28,4 +28,4 @@ Coupon / Functional Testing / Equivalence Partitioning (IEC-CODE-02)
 - Từ chối áp dụng và thông báo: "Mã giảm giá đã hết hạn sử dụng".
 
 ## Status / Related bugs
-Not Run / None
+Pass / None

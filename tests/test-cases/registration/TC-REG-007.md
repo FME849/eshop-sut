@@ -29,4 +29,4 @@ Registration / Functional Testing / Equivalence Partitioning (IEC-CONF-01)
 - Báo lỗi: Mật khẩu xác nhận không khớp với mật khẩu đã nhập.
 
 ## Status / Related bugs
-Not Run / None
+Fail / [BUG-REG-002](../../bugs/registration/BUG-REG-002.md)

@@ -28,4 +28,4 @@ Mobile Registration / Functional Testing / Equivalence Partitioning (IEC-CHAR-04
 - Hiển thị lỗi `registerError` yêu cầu có KÝ TỰ ĐẶC BIỆT.
 
 ## Status / Related bugs
-Not Run / None
+Pass / None

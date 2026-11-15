@@ -28,4 +28,4 @@ Coupon / Functional Testing / Boundary Value Analysis (BVA Max - 1), Equivalence
 - Áp dụng mã thành công, giảm 40.000 ₫ (10%).
 
 ## Status / Related bugs
-Not Run / None
+Fail / [BUG-COUP-002](../../bugs/coupon/BUG-COUP-002.md)

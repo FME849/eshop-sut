@@ -28,4 +28,4 @@ Admin Products / Functional Testing / Boundary Value Analysis (BVA Min), Equival
 - Tạo sản phẩm thành công và lưu vào CSDL.
 
 ## Status / Related bugs
-Not Run / None
+Pass / None

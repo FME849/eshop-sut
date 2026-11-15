@@ -29,4 +29,4 @@ Coupon / Functional Testing / Boundary Value Analysis (BVA Min)
 - Tổng thanh toán còn lại hiển thị đúng: 270.000 ₫.
 
 ## Status / Related bugs
-Not Run / None
+Fail / [BUG-COUP-001](../../bugs/coupon/BUG-COUP-001.md)

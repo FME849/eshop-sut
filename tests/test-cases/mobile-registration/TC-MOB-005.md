@@ -24,4 +24,4 @@ Mobile Registration / GUI Testing / Checklist (FR-21.2)
 - Nút "Đăng Ký" (hành động tích cực/chính) phải mang màu nền Xanh dương chuẩn hệ thống.
 
 ## Status / Related bugs
-Not Run / None
+Fail / [BUG-MOB-001](../../bugs/mobile-registration/BUG-MOB-001.md)

@@ -29,4 +29,4 @@ Registration / Functional Testing / Equivalence Partitioning (IEC-CHAR-05)
 - Báo lỗi: Mật khẩu không được chứa khoảng trắng.
 
 ## Status / Related bugs
-Not Run / None
+Fail / [BUG-REG-001](../../bugs/registration/BUG-REG-001.md)

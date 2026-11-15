@@ -29,4 +29,4 @@ Admin Products / Functional Testing / Boundary Value Analysis (BVA Min - 1), Equ
 - Báo lỗi: "Giá sản phẩm phải là số dương lớn hơn 0".
 
 ## Status / Related bugs
-Not Run / None
+Fail / [BUG-ADMN-001](../../bugs/admin-products/BUG-ADMN-001.md)

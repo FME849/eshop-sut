@@ -31,4 +31,4 @@ Registration / Functional Testing / Boundary Value Analysis (BVA Min - 1)
 - Người dùng vẫn ở lại trang Đăng ký.
 
 ## Status / Related bugs
-Not Run / None
+Pass / None

@@ -26,11 +26,25 @@ export default defineConfig({
         ...devices['Desktop Chrome'],
       },
     },
+  ],
+  webServer: [
     {
-      name: 'mobile-chromium',
-      use: {
-        ...devices['Pixel 7'],
-      },
+      command: 'node ../../backend/server.js',
+      port: 3000,
+      reuseExistingServer: true,
+      timeout: 15000,
+    },
+    {
+      command: 'npm --prefix ../../frontend-web run dev',
+      port: 5173,
+      reuseExistingServer: true,
+      timeout: 15000,
+    },
+    {
+      command: 'npm --prefix ../../frontend-admin run dev',
+      port: 5174,
+      reuseExistingServer: true,
+      timeout: 15000,
     },
   ],
 });

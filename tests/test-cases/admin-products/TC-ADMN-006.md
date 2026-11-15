@@ -28,4 +28,4 @@ Admin Products / Functional Testing / Boundary Value Analysis (BVA Max), Equival
 - Tạo sản phẩm thành công mà không bị cắt cụt (truncate) hoặc lỗi CSDL.
 
 ## Status / Related bugs
-Not Run / None
+Pass / None

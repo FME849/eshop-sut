@@ -29,4 +29,4 @@ Registration / Functional Testing / Equivalence Partitioning (IEC-CHAR-01)
 - Hiển thị thông báo lỗi yêu cầu mật khẩu phải chứa ít nhất 1 chữ cái in hoa (A-Z).
 
 ## Status / Related bugs
-Not Run / None
+Pass / None

@@ -29,4 +29,4 @@ Registration / Functional Testing / Equivalence Partitioning (IEC-CHAR-04)
 - Hiển thị thông báo lỗi yêu cầu mật khẩu phải chứa ít nhất 1 ký tự đặc biệt trong tập [@, $, !, %, *, ?, &].
 
 ## Status / Related bugs
-Not Run / None
+Pass / None

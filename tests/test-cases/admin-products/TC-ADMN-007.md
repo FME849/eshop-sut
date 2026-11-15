@@ -28,4 +28,4 @@ Admin Products / Functional Testing / Boundary Value Analysis (BVA Max + 1), Equ
 - Báo lỗi: "Tên sản phẩm không được vượt quá 255 ký tự".
 
 ## Status / Related bugs
-Not Run / None
+Fail / [BUG-ADMN-002](../../bugs/admin-products/BUG-ADMN-002.md)

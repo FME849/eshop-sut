@@ -25,4 +25,4 @@ Mobile Registration / GUI Testing, Functional / Checklist, Equivalence Partition
 - Bắt buộc người dùng nhập lại đúng mật khẩu trước khi cho phép bấm nút "Đăng Ký".
 
 ## Status / Related bugs
-Not Run / None
+Fail / [BUG-REG-002](../../bugs/registration/BUG-REG-002.md)
