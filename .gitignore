@@ -20,3 +20,6 @@ build/
 
 # Testing documentation across branches
 testing-docs/
+
+*/playwright-report
+*/test-results
